@@ -1,133 +1,281 @@
-<h1 align="center">Hi, I'm Chanchal Verma!! </h1>
-<h3 align="center">Golang Developer||Software Engineer ||DevOps || Mentor || Content Creator </h3>
+<!-- ============================================================ -->
+<!--                    HEADER / BANNER                            -->
+<!-- ============================================================ -->
 
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chanchal%20Verma&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20•%20Go%20•%20Cloud%20•%20DevOps&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="header-banner"/>
 
-<!----------------------------------- Profile View Section ------------------------------------->
+  <a href="https://github.com/ChanchalS7">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Engineer+%40+CPX;Golang+%7C+Node.js+%7C+React+%7C+TypeScript;DevOps+%E2%80%A2+Cloud-Native+%E2%80%A2+Kubernetes;Building+AI-powered+Cyber+Threat+Platforms;Mentor+%E2%80%A2+Content+Creator+%E2%80%A2+Open+Source" alt="typing-svg" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/ChanchalS7">
+    <img src="https://komarev.com/ghpvc/?username=ChanchalS7&label=Profile%20views&color=00ADD8&style=for-the-badge" alt="profile-views" />
+  </a>
+  <a href="https://github.com/ChanchalS7?tab=followers">
+    <img src="https://img.shields.io/github/followers/ChanchalS7?label=Followers&style=for-the-badge&color=00ADD8&labelColor=0e1117" alt="followers" />
+  </a>
+  <a href="https://github.com/ChanchalS7?tab=repositories">
+    <img src="https://img.shields.io/github/stars/ChanchalS7?label=Stars&style=for-the-badge&color=00ADD8&labelColor=0e1117" alt="stars" />
+  </a>
+
+</div>
+
+<!-- ============================================================ -->
+<!--                      ABOUT ME                                 -->
+<!-- ============================================================ -->
+
+## <picture><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></picture> &nbsp; About Me
+
+```yaml
+name:        "Chanchal Verma"
+location:    "Abu Dhabi, UAE 🇦🇪"
+role:        "Senior Full Stack Engineer @ CPX"
+focus:       ["AI-powered Cyber Threat Intelligence", "Cloud-Native Platforms"]
+experience:  "~5 years"
+languages:   ["Go", "TypeScript", "Node.js", "Python"]
+currently:   "Architecting scalable, secure systems"
+learning:    "Solution architecture & Generative AI"
+ask_me_about: "Web products, automation, DevOps, problem solving"
+fun_fact:    "I make life easier through tech ⚡"
+```
+
+<br/>
+
+- 🔭 &nbsp; Currently leading **AI-powered Cyber Threat Intelligence Platform** development at **CPX**
+- 🌱 &nbsp; Deep-diving into **solution architecture, LLM integration & multi-tenant systems**
+- 💬 &nbsp; Ask me about **Golang, Node.js, React, Kubernetes, DevOps, AI agents**
+- 📝 &nbsp; I write articles at [**dev.to/chanchals7**](https://dev.to/chanchals7)
+- 🎯 &nbsp; Mentored **200+ developers** across the MERN stack & Go ecosystem
+- 📫 &nbsp; Reach me at **chanchal9.dev@gmail.com**
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                     CONNECT WITH ME                           -->
+<!-- ============================================================ -->
+
+## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"></picture> &nbsp; Connect With Me
 
 <p align="left">
-    <a href="https://github.com/ChanchalS7">
-        <img src="https://komarev.com/ghpvc/?username=ChanchalS7&label=Profile%20views&color=0e75b6&style=flat" alt="chanchal" />
-    </a>
-    <a href="https://github.com/ChanchalS7?tab=followers">
-        <img src="https://img.shields.io/github/followers/ChanchalS7?label=Followers&style=social" alt="followers-count">
-    </a>
+  <a href="https://linkedin.com/in/chanchals7" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="https://twitter.com/Chanchal_S7" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter"/>
+  </a>
+  <a href="https://dev.to/chanchals7" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto"/>
+  </a>
+  <a href="mailto:chanchal9.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://app.daily.dev/ChanchalS7" target="_blank">
+    <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" alt="daily-dev"/>
+  </a>
 </p>
-<br>
-- 🌱 I working as a <b> Technical Lead</b>
 
+<br/>
 
-- 📝 I am currently learning <b>**Architecting solutions of problems**</b>
+<!-- ============================================================ -->
+<!--                       TECH STACK                              -->
+<!-- ============================================================ -->
 
-- 💬 Ask me about **Desgining and developing web products, automation, devops, problem solving, making life easier through tech**
+## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"></picture> &nbsp; Tech Stack
 
-<!-- - 📫 How to reach me **chanchal9.dev@gmail.com** -->
-
-
-<!----------------------------------- Social Media Links Section ------------------------------------>
-
-<h2><i>Let's Connect</i></h2>
-<p align="left">
-    <a href="https://linkedin.com/in/chanchals7">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/chanchals7" />
-    </a>
-    <a href="https://twitter.com/Chanchal_S7">
-        <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/Chanchal_S7" />
-    </a>
-    <a title="chanchal9.dev@gmail.com" href="mailto:chanchal9.dev@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chsverma7@gmail.com" />
-    </a>
-</p>
-<br>
-
-<h2><i>Tech Stack</i></h2>
-
+<details open>
+<summary><b>💻 Languages</b></summary>
+<br/>
 <p>
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
- <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="golang" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="rust" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> 
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="aws" />
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="gcp" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" />
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="github actions" />
-<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="ansible" />
-<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="terraform" />
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="prometheus" />
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="grafana" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,javascript,nodejs,python,rust,html,css,bash" alt="languages"/>
 </p>
-<br>
-<!----------------------------------- GitHub Stats Section ------------------------------------>
+</details>
 
-<h2><i>My GitHub Stats</i></h2>
+<details open>
+<summary><b>⚙️ Backend & Frameworks</b></summary>
+<br/>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chanchals7&show_icons=true&locale=en&theme=dark" alt="chanchals7" height="199"/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chanchals7&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark"" alt="chanchals7" height="199" />
- </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chanchals7&show_icons=true&locale=en&theme=dark"  alt="chanchals7" /></p>
-<a href="https://app.daily.dev/ChanchalS7">
-     <img align="right" src="https://api.daily.dev/devcards/1da3be048a654cb4bcaeac08740dfacd.png?r=kkq" width="300" alt="Chanchal Verma's Dev Card"/>
-       </a>                                                                                                                                 
-<br>
-<!-- <h2><i><b>Here are some 🦜 parrots:</b><i></h2>
-
-<div>
-<!--     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/> 
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/> -->
-<!--     <br> -->
-    <p align="left"> -->
-    <h2><b>Follow me to read my aritcles/blogs : </b></h2>
-<!-- Dev.to -->
-<a href="https://dev.to/chanchals7" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" style="margin-right:10px;" />
-</a>
-
-<!-- X (Twitter) -->
-<a href="https://x.com/chanchal_S7" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X (Twitter)" height="30" width="40" style="margin-right:10px;" />
-</a>
-
-<!-- LinkedIn -->
-<a href="https://linkedin.com/in/chanchals7" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px;" />
-</a>
-
-<a href="https://linkedin.com/in/chanchals7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chanchals7" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,django,fastapi,graphql,prisma" alt="backend"/>
 </p>
-                                                                                                                                        <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="chanchals7" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/chanchals7?trk=profile-badge">Chanchal Verma</a></div>
-              
+<p>
+  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="gin"/>
+  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white" alt="fiber"/>
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="grpc"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka"/>
+  <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" alt="temporal"/>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="keycloak"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,vue" alt="frontend"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="tanstack"/>
+</p>
+</details>
+
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,ansible,linux" alt="cloud-devops"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,dynamodb" alt="databases"/>
+</p>
+</details>
+
+<details open>
+<summary><b>🤖 AI & GenAI</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
+  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="cursor"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/VectorDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" alt="vectordb"/>
+</p>
+</details>
+
+<details open>
+<summary><b>📊 Monitoring & Tools</b></summary>
+<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,gitlab,postman,vscode,jira,slack" alt="tools"/>
+</p>
+</details>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                     CURRENT WORK                              -->
+<!-- ============================================================ -->
+
+## <picture><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"></picture> &nbsp; What I'm Building
+
+> **🛡️ AI-Powered Cyber Threat Intelligence Platform** @ CPX
+> 
+> Leading end-to-end design and delivery of a production platform serving SOC & Threat Intel teams.
+> Building AI agents that automate threat analysis, designing interactive threat visualization dashboards
+> (globe world threat view, threat actor profiling), and architecting a custom NestJS Backend-for-Frontend
+> with Keycloak SSO, multi-tenant RBAC, and full Azure DevOps CI/CD on AKS.
+>
+> **Stack:** TypeScript • Vite • TanStack Query • NestJS • Keycloak • Prisma • PostgreSQL • Azure AKS
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                     GITHUB STATS                              -->
+<!-- ============================================================ -->
+
+## <picture><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"></picture> &nbsp; GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChanchalS7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9" alt="github-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanchalS7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=c9d1d9" alt="top-languages"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanchalS7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ADD8&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="github-streak"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=ChanchalS7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanchalS7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&area_color=00ADD8" alt="activity-graph" width="98%"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                       JOURNEY                                 -->
+<!-- ============================================================ -->
+
+## <picture><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"></picture> &nbsp; My Journey
+
+| 🗓️ | Role | Company |
+|----|------|---------|
+| **Aug 2025 — Present** | Senior Full Stack Engineer | **CPX** — Cybersecurity, Abu Dhabi 🇦🇪 |
+| **Jul 2024 — Jun 2025** | Founding Software Engineer | **StackGuardian** — Belgium (Remote) |
+| **Jun 2023 — Jun 2024** | Full Stack Developer & DevOps Engineer | **Thor Solutions Pvt Ltd** |
+| **Oct 2021 — Jun 2023** | Software Engineer & Mentor | **Masai School** |
+| **Jul 2020 — Dec 2022** | Freelance Full Stack Web Developer | **Self-Employed** |
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                     DEV.TO ARTICLES                           -->
+<!-- ============================================================ -->
+
+## <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"></picture> &nbsp; Latest Articles & Blogs
+
+<div align="center">
+  
+  [![Dev.to Blog](https://img.shields.io/badge/Read_my_articles_on_dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chanchals7)
+  
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                  DAILY DEV CARD                               -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+  <a href="https://app.daily.dev/ChanchalS7">
+    <img src="https://api.daily.dev/devcards/1da3be048a654cb4bcaeac08740dfacd.png?r=kkq" width="400" alt="Chanchal Verma's Dev Card"/>
+  </a>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                       QUOTE                                   -->
+<!-- ============================================================ -->
+
+## <picture><img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="28"></picture> &nbsp; Dev Quote
+
+<div align="center">
+
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev-quote"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                       FOOTER                                  -->
+<!-- ============================================================ -->
+
+<div align="center">
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=twinkling" width="100%" alt="footer-banner"/>
+
+  <sub>⭐ <em>"Building software that makes life easier, one commit at a time."</em></sub>
+
 </div>
