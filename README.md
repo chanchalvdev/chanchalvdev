@@ -6,20 +6,20 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chanchal%20Verma&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20•%20Go%20•%20Cloud%20•%20DevOps&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="header-banner"/>
 
-  <a href="https://github.com/ChanchalS7">
+  <a href="https://github.com/chanchalvdev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Engineer+%40+CPX;Golang+%7C+Node.js+%7C+React+%7C+TypeScript;DevOps+%E2%80%A2+Cloud-Native+%E2%80%A2+Kubernetes;Building+AI-powered+Cyber+Threat+Platforms;Mentor+%E2%80%A2+Content+Creator+%E2%80%A2+Open+Source" alt="typing-svg" />
   </a>
 
   <br/>
 
-  <a href="https://github.com/ChanchalS7">
-    <img src="https://komarev.com/ghpvc/?username=ChanchalS7&label=Profile%20views&color=00ADD8&style=for-the-badge" alt="profile-views" />
+  <a href="https://github.com/chanchalvdev">
+    <img src="https://komarev.com/ghpvc/?username=chanchalvdev&label=Profile%20views&color=00ADD8&style=for-the-badge" alt="profile-views" />
   </a>
-  <a href="https://github.com/ChanchalS7?tab=followers">
-    <img src="https://img.shields.io/github/followers/ChanchalS7?label=Followers&style=for-the-badge&color=00ADD8&labelColor=0e1117" alt="followers" />
+  <a href="https://github.com/chanchalvdev?tab=followers">
+    <img src="https://img.shields.io/github/followers/chanchalvdev?label=Followers&style=for-the-badge&color=00ADD8&labelColor=0e1117" alt="followers" />
   </a>
-  <a href="https://github.com/ChanchalS7?tab=repositories">
-    <img src="https://img.shields.io/github/stars/ChanchalS7?label=Stars&style=for-the-badge&color=00ADD8&labelColor=0e1117" alt="stars" />
+  <a href="https://github.com/chanchalvdev?tab=repositories">
+    <img src="https://img.shields.io/github/stars/chanchalvdev?label=Stars&style=for-the-badge&color=00ADD8&labelColor=0e1117" alt="stars" />
   </a>
 
 </div>
@@ -48,7 +48,7 @@ fun_fact:    "I make life easier through tech ⚡"
 - 🔭 &nbsp; Currently leading **AI-powered Cyber Threat Intelligence Platform** development at **CPX**
 - 🌱 &nbsp; Deep-diving into **solution architecture, LLM integration & multi-tenant systems**
 - 💬 &nbsp; Ask me about **Golang, Node.js, React, Kubernetes, DevOps, AI agents**
-- 📝 &nbsp; I write articles at [**dev.to/chanchals7**](https://dev.to/chanchals7)
+- 📝 &nbsp; I write articles at [**dev.to/chanchalvdev**](https://dev.to/chanchalvdev)
 - 🎯 &nbsp; Mentored **200+ developers** across the MERN stack & Go ecosystem
 - 📫 &nbsp; Reach me at **chanchal9.dev@gmail.com**
 
@@ -61,19 +61,19 @@ fun_fact:    "I make life easier through tech ⚡"
 ## <picture><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"></picture> &nbsp; Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/chanchals7" target="_blank">
+  <a href="https://linkedin.com/in/chanchalvdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
   <a href="https://twitter.com/Chanchal_S7" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="twitter"/>
   </a>
-  <a href="https://dev.to/chanchals7" target="_blank">
+  <a href="https://dev.to/chanchalvdev" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="devto"/>
   </a>
   <a href="mailto:chanchal9.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
   </a>
-  <a href="https://app.daily.dev/ChanchalS7" target="_blank">
+  <a href="https://app.daily.dev/chanchalvdev" target="_blank">
     <img src="https://img.shields.io/badge/daily.dev-CE3DF3?style=for-the-badge&logo=daily.dev&logoColor=white" alt="daily-dev"/>
   </a>
 </p>
@@ -185,26 +185,26 @@ fun_fact:    "I make life easier through tech ⚡"
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChanchalS7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9" alt="github-stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChanchalS7&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=c9d1d9" alt="top-languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chanchalvdev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=c9d1d9" alt="github-stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chanchalvdev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00ADD8&text_color=c9d1d9" alt="top-languages"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanchalS7&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ADD8&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="github-streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chanchalvdev&theme=tokyonight&hide_border=true&background=0D1117&stroke=00ADD8&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="github-streak"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ChanchalS7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=chanchalvdev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="trophies"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanchalS7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&area_color=00ADD8" alt="activity-graph" width="98%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chanchalvdev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00ADD8&line=00ADD8&point=ffffff&area=true&area_color=00ADD8" alt="activity-graph" width="98%"/>
 
 </div>
 
@@ -234,7 +234,7 @@ fun_fact:    "I make life easier through tech ⚡"
 
 <div align="center">
   
-  [![Dev.to Blog](https://img.shields.io/badge/Read_my_articles_on_dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chanchals7)
+  [![Dev.to Blog](https://img.shields.io/badge/Read_my_articles_on_dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chanchalvdev)
   
 </div>
 
@@ -246,7 +246,7 @@ fun_fact:    "I make life easier through tech ⚡"
 
 <div align="center">
 
-  <a href="https://app.daily.dev/ChanchalS7">
+  <a href="https://app.daily.dev/chanchalvdev">
     <img src="https://api.daily.dev/devcards/1da3be048a654cb4bcaeac08740dfacd.png?r=kkq" width="400" alt="Chanchal Verma's Dev Card"/>
   </a>
 
