@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chanchal%20Verma&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Senior%20Full%20Stack%20Engineer%20•%20Go%20•%20Cloud%20•%20DevOps&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="header-banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Chanchal%20Verma&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20| AI Security %20Engineer%20•Senior%20Full%20Stack%20Engineer%20•%20Go%20•%20Cloud%20•%20DevOps&descSize=18&descAlignY=55&animation=fadeIn" width="100%" alt="header-banner"/>
 
   <a href="https://github.com/chanchalvdev">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00ADD8&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Engineer+%40+CPX;Golang+%7C+Node.js+%7C+React+%7C+TypeScript;DevOps+%E2%80%A2+Cloud-Native+%E2%80%A2+Kubernetes;Building+AI-powered+Cyber+Threat+Platforms;Mentor+%E2%80%A2+Content+Creator+%E2%80%A2+Open+Source" alt="typing-svg" />
