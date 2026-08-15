@@ -155,23 +155,6 @@ fun_fact:    "I make life easier through tech ⚡"
 | **Jul 2020 — Dec 2022** | Freelance Full Stack Web Developer | **Self-Employed** |
 
 <br/>
-
-<!-- ============================================================ -->
-<!--                     DEV.TO ARTICLES                           -->
-<!-- ============================================================ -->
-
-## <picture><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"></picture> &nbsp; Latest Articles & Blogs
-
-<div align="center">
-  
-  [![Dev.to Blog](https://img.shields.io/badge/Read_my_articles_on_dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/chanchalvdev)
-  
-</div>
-
-<br/>
-
-
-
 <!-- ============================================================ -->
 <!--                       QUOTE                                   -->
 <!-- ============================================================ -->
