@@ -84,81 +84,10 @@ fun_fact:    "I make life easier through tech ⚡"
 <!--                       TECH STACK                              -->
 <!-- ============================================================ -->
 
-## <picture><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"></picture> &nbsp; Tech Stack
 
-<details open>
-<summary><b>💻 Languages</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=go,typescript,javascript,nodejs,python,rust,html,css,bash" alt="languages"/>
-</p>
-</details>
 
-<details open>
-<summary><b>⚙️ Backend & Frameworks</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,django,fastapi,graphql,prisma" alt="backend"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="gin"/>
-  <img src="https://img.shields.io/badge/Fiber-00ACD7?style=for-the-badge&logo=go&logoColor=white" alt="fiber"/>
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" alt="grpc"/>
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="kafka"/>
-  <img src="https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logo=temporal&logoColor=white" alt="temporal"/>
-  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="keycloak"/>
-</p>
-</details>
 
-<details open>
-<summary><b>🎨 Frontend</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite,vue" alt="frontend"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="tanstack"/>
-</p>
-</details>
 
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,ansible,linux" alt="cloud-devops"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,sqlite,dynamodb" alt="databases"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🤖 AI & GenAI</b></summary>
-<br/>
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="langchain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai"/>
-  <img src="https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="cursor"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
-  <img src="https://img.shields.io/badge/VectorDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white" alt="vectordb"/>
-</p>
-</details>
-
-<details open>
-<summary><b>📊 Monitoring & Tools</b></summary>
-<br/>
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,git,github,gitlab,postman,vscode,jira,slack" alt="tools"/>
-</p>
-</details>
-
-<br/>
 
 <!-- ============================================================ -->
 <!--                     CURRENT WORK                              -->
