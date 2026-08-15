@@ -148,7 +148,7 @@ fun_fact:    "I make life easier through tech ⚡"
 | 🗓️ | Role | Company |
 |----|------|---------|
 | **Aug 2025 — Present** | Senior Full Stack Engineer | **CPX** — Cybersecurity, Abu Dhabi 🇦🇪 |
-| **Apr 2025- Aug 2025 | Technical Lead( Golang & Kubernetes) | **HCL Technologies** - Bangalore, India 🇮🇳 |
+| **Apr 2025- Aug 2025** | Technical Lead( Golang & Kubernetes) | **HCL Technologies** - Bangalore, India 🇮🇳 |
 | **Jul 2024 — March 2025** | Founding Software Engineer | **StackGuardian** — Belgium (Remote) |
 | **Jun 2023 — Jun 2024** | Full Stack Developer & DevOps Engineer | **Thor Solutions Pvt Ltd** |
 | **Oct 2021 — Jun 2023** | Software Engineer & Mentor | **Masai School** |
