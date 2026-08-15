@@ -170,19 +170,7 @@ fun_fact:    "I make life easier through tech ⚡"
 
 <br/>
 
-<!-- ============================================================ -->
-<!--                  DAILY DEV CARD                               -->
-<!-- ============================================================ -->
 
-<div align="center">
-
-  <a href="https://app.daily.dev/chanchalvdev">
-    <img src="https://api.daily.dev/devcards/1da3be048a654cb4bcaeac08740dfacd.png?r=kkq" width="400" alt="Chanchal Verma's Dev Card"/>
-  </a>
-
-</div>
-
-<br/>
 
 <!-- ============================================================ -->
 <!--                       QUOTE                                   -->
