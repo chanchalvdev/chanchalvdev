@@ -64,7 +64,6 @@ fun_fact:     "I make life easier through tech ⚡"
 - 🔭 &nbsp; Currently leading **AI-powered Cyber Threat Intelligence Platform** development at **CPX**
 - 🌱 &nbsp; Deep-diving into **solution architecture, LLM integration & multi-tenant systems**
 - 💬 &nbsp; Ask me about **Golang, Node.js, React, Kubernetes, DevOps, AI agents**
-- 📝 &nbsp; I write articles at [**dev.to/chanchalvdev**](https://dev.to/chanchalvdev)
 - 🎯 &nbsp; Mentored **200+ developers** across the MERN stack & Go ecosystem
 - 📫 &nbsp; Reach me at **chanchal9.dev@gmail.com**
 
