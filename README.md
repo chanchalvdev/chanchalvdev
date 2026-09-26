@@ -65,7 +65,7 @@ fun_fact:     "I make life easier through tech ⚡"
 - 🌱 &nbsp; Deep-diving into **solution architecture, LLM integration & multi-tenant systems**
 - 💬 &nbsp; Ask me about **Golang, Node.js, React, Kubernetes, DevOps, AI agents**
 - 🎯 &nbsp; Mentored **200+ developers** across the MERN stack & Go ecosystem
-- 📫 &nbsp; Reach me at **chanchal9.dev@gmail.com**
+- 📫 &nbsp; Reach me at **chanchalverma.dev@gmail.com**
 
 <br/>
 
@@ -81,7 +81,7 @@ fun_fact:     "I make life easier through tech ⚡"
   <a href="https://dev.to/chanchalvdev" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" />
   </a>
-  <a href="mailto:chanchal9.dev@gmail.com">
+  <a href="mailto:chanchalverma.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://app.daily.dev/chanchalvdev" target="_blank">
