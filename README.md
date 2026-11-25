@@ -2,17 +2,27 @@
   chanchalvdev/chanchalvdev — profile README
   - Preview on github.com/chanchalvdev, not in an editor (GitHub proxies images through camo).
   - No <picture> tags: GitHub strips them.
-  - Every image host below was verified live (Oct 2026). Copy mirrors chanchalverma.dev.
+  - streak.svg is generated daily by .github/workflows/streak.yml (scripts/streak.py).
   - Stuck broken image? GitHub cached the failure: curl -X PURGE "<camo.githubusercontent.com URL>"
 -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0e,55:2a2370,100:4c3fd0&height=210&section=header&text=Chanchal%20Verma&fontSize=58&fontColor=f4f4f5&fontAlignY=36&desc=I%20build%20AI%20agents%20that%20ship%20%E2%80%94%20and%20keep%20them%20safe.&descSize=19&descAlignY=58&animation=fadeIn" width="100%" alt="Chanchal Verma — I build AI agents that ship, and keep them safe." />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0e,55:2a2370,100:4c3fd0&height=220&section=header&text=Chanchal%20Verma&fontSize=60&fontColor=f4f4f5&fontAlignY=35&desc=Forward%20Deployed%20AI%20Engineer%20%C2%B7%20Product%20Engineer%20%C2%B7%20Security%20by%20design&descSize=18&descAlignY=57&animation=fadeIn" width="100%" alt="Chanchal Verma — Forward Deployed AI Engineer, Product Engineer, Security by design" />
 
 <a href="https://chanchalverma.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=900&color=6E5FE8&center=true&vCenter=true&width=620&lines=AI+Engineer+%40+CPX%2C+Abu+Dhabi;Forward+Deployed+Engineer;Agentic+AI+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+LLMOps;AI+Security+by+design%2C+not+bolted+on" alt="AI Engineer at CPX · Forward Deployed Engineer · Agentic AI · AI Security" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2400&pause=900&color=6E5FE8&center=true&vCenter=true&width=680&lines=%3E+Forward+Deployed+Engineer+%C2%B7+AI+%40+CPX%2C+Abu+Dhabi;%3E+From+vague+ask+to+working+AI+prototype+in+days;%3E+Agents+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+LLMOps+%C2%B7+Evals;%3E+Systems+integrator%3A+LLMs+%C3%97+Cloud+%C3%97+Security;%3E+Tech+lead+who+still+ships+code" alt="Forward Deployed Engineer · AI at CPX · Agents, MCP, RAG · Systems integrator · Tech lead" />
 </a>
+
+<p>
+  <img src="https://img.shields.io/badge/Forward%20Deployed%20Engineer-4c3fd0?style=for-the-badge&labelColor=16151a" alt="Forward Deployed Engineer" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-2a2370?style=for-the-badge&labelColor=16151a" alt="AI Engineering" />
+  <img src="https://img.shields.io/badge/Product%20Engineering-4c3fd0?style=for-the-badge&labelColor=16151a" alt="Product Engineering" />
+  <br/>
+  <img src="https://img.shields.io/badge/Technical%20Lead-2a2370?style=for-the-badge&labelColor=16151a" alt="Technical Lead" />
+  <img src="https://img.shields.io/badge/Systems%20Integration-4c3fd0?style=for-the-badge&labelColor=16151a" alt="Systems Integration" />
+  <img src="https://img.shields.io/badge/AI%20Security-2a2370?style=for-the-badge&labelColor=16151a" alt="AI Security" />
+</p>
 
 <p>
   <a href="https://chanchalverma.dev"><img src="https://img.shields.io/badge/Portfolio-chanchalverma.dev-4c3fd0?style=flat-square&labelColor=16151a" alt="Portfolio" /></a>
@@ -26,9 +36,16 @@
 
 <br/>
 
-### 👋 The short version
-
-The best requirements are never in the spec. I sit with the people doing the work, find where their day breaks down, and turn a vague ask into a **working AI prototype in days**. Then I stay through rollout and harden it with guardrails, human review and audit trails, until it's something a security team **trusts and uses every day**.
+```yaml
+engineer:
+  name: Chanchal Verma
+  role: [Forward Deployed Engineer, AI Engineer, Product Engineer, Technical Lead]
+  based_in: Abu Dhabi, UAE
+  now: Building a multi-agent AI platform for threat-intel & incident-response teams @ CPX
+  superpower: "Turn a vague ask into a working AI prototype in days, then harden it for production"
+  default_mode: embed -> build -> ship -> stay through rollout
+  non_negotiable: security by design, not bolted on
+```
 
 <div align="center">
 
@@ -40,17 +57,68 @@ The best requirements are never in the spec. I sit with the people doing the wor
 
 <br/>
 
-### 🔁 How I work
+### ⚡ What I bring to a team
 
-| 🧭 **Embed** | 🛠️ **Build** | 🛡️ **Ship** |
-|---|---|---|
-| Sit with the team, learn the workflow, find the problem actually worth solving. | Prototype agents, RAG pipelines and the product around them, in days rather than quarters. | Evals, observability, identity, permissions and audit trails, designed in from day one. |
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🛰️ Forward Deployed**<br/>
+<sub>I sit with the people doing the work, find where their day breaks down, and own the problem end to end, from discovery to rollout.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🤖 AI Engineering**<br/>
+<sub>Multi-agent systems, MCP tools, RAG pipelines, evals and LLMOps, running on hosted APIs or self-hosted models.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🧩 Product Engineering**<br/>
+<sub>Full-stack ownership: the agent, the backend, the UI and the workflow around it. Prototype in days, not quarters.</sub>
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🔌 Systems Integration**<br/>
+<sub>Wiring LLMs into real stacks: SIEMs, Kafka, Temporal, identity providers, object stores and on-prem GPUs.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🧭 Technical Leadership**<br/>
+<sub>Led Go & Kubernetes delivery for an enterprise client and mentored 200+ developers. I lead by shipping.</sub>
+
+</td>
+<td width="33%" valign="top">
+
+**🛡️ AI Security**<br/>
+<sub>Scoped credentials, guardrails, human-in-the-loop approval and audit trails, designed in from day one. OWASP LLM Top 10 aware.</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-### 🛰️ Right now: AI Engineering @ [CPX](https://www.cpx.net)
+### 🔁 How I work
 
-I'm building a **multi-tenant, multi-agent AI platform** used every day by threat-intelligence and incident-response teams.
+```mermaid
+flowchart LR
+    A["🧭 Embed<br/>learn the workflow"] --> B["🛠️ Build<br/>prototype in days"]
+    B --> C["🧪 Evaluate<br/>evals + guardrails"]
+    C --> D["🛡️ Ship<br/>identity · audit · observability"]
+    D -->|"stay through rollout"| A
+```
+
+<br/>
+
+### 🔭 Right now: AI Engineering @ [CPX](https://www.cpx.net)
+
+Building a **multi-tenant, multi-agent AI platform** used every day by threat-intelligence and incident-response teams.
 
 - **Agents that do analyst work:** threat-actor profiling, MITRE ATT&CK mapping, malware and vulnerability intel, incident analysis (Python · LangGraph · Agno · MCP)
 - **Safe by construction:** each agent runs with its own scoped tools and credentials, plus guardrails, output validation, human-in-the-loop approval and a full audit log
@@ -77,21 +145,14 @@ I'm building a **multi-tenant, multi-agent AI platform** used every day by threa
 <br/>
 <img src="https://skillicons.dev/icons?i=kubernetes,docker,azure,aws,terraform,githubactions,grafana,prometheus,linux&theme=dark" alt="Kubernetes, Docker, Azure, AWS, Terraform, GitHub Actions, Grafana, Prometheus, Linux" />
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangGraph-16151a?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/MCP-16151a?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-<img src="https://img.shields.io/badge/RAG%20%26%20Evals-16151a?style=flat-square" alt="RAG and evals" />
-<img src="https://img.shields.io/badge/Qdrant-16151a?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" />
-<img src="https://img.shields.io/badge/Ollama-16151a?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
-<img src="https://img.shields.io/badge/Langfuse-16151a?style=flat-square&logo=langfuse&logoColor=white" alt="Langfuse" />
-<img src="https://img.shields.io/badge/OpenTelemetry-16151a?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-<img src="https://img.shields.io/badge/Temporal-16151a?style=flat-square&logo=temporal&logoColor=white" alt="Temporal" />
-<img src="https://img.shields.io/badge/Keycloak-16151a?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" />
-<img src="https://img.shields.io/badge/OWASP%20LLM%20Top%2010-16151a?style=flat-square&logo=owasp&logoColor=white" alt="OWASP LLM Top 10" />
-<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-16151a?style=flat-square" alt="MITRE ATT&CK" />
-
 </div>
+
+| | |
+|---|---|
+| **🤖 AI & Agents** | <img src="https://img.shields.io/badge/LangGraph-16151a?style=flat-square&logo=langgraph&logoColor=white" alt="LangGraph" /> <img src="https://img.shields.io/badge/MCP-16151a?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" /> <img src="https://img.shields.io/badge/Agno-16151a?style=flat-square" alt="Agno" /> <img src="https://img.shields.io/badge/RAG%20%26%20Evals-16151a?style=flat-square" alt="RAG and evals" /> <img src="https://img.shields.io/badge/Qdrant-16151a?style=flat-square&logo=qdrant&logoColor=white" alt="Qdrant" /> <img src="https://img.shields.io/badge/Ollama-16151a?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> |
+| **📈 LLMOps** | <img src="https://img.shields.io/badge/Langfuse-16151a?style=flat-square&logo=langfuse&logoColor=white" alt="Langfuse" /> <img src="https://img.shields.io/badge/OpenTelemetry-16151a?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" /> <img src="https://img.shields.io/badge/NVIDIA%20H100-16151a?style=flat-square&logo=nvidia&logoColor=white" alt="NVIDIA H100" /> |
+| **🔌 Integration** | <img src="https://img.shields.io/badge/Kafka-16151a?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" /> <img src="https://img.shields.io/badge/Temporal-16151a?style=flat-square&logo=temporal&logoColor=white" alt="Temporal" /> <img src="https://img.shields.io/badge/Keycloak-16151a?style=flat-square&logo=keycloak&logoColor=white" alt="Keycloak" /> <img src="https://img.shields.io/badge/OpenSearch-16151a?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch" /> <img src="https://img.shields.io/badge/MinIO-16151a?style=flat-square&logo=minio&logoColor=white" alt="MinIO" /> |
+| **🛡️ Security** | <img src="https://img.shields.io/badge/OWASP%20LLM%20Top%2010-16151a?style=flat-square&logo=owasp&logoColor=white" alt="OWASP LLM Top 10" /> <img src="https://img.shields.io/badge/MITRE%20ATT%26CK-16151a?style=flat-square" alt="MITRE ATT&CK" /> <img src="https://img.shields.io/badge/Sigma-16151a?style=flat-square" alt="Sigma" /> <img src="https://img.shields.io/badge/Wazuh-16151a?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh" /> |
 
 <br/>
 
