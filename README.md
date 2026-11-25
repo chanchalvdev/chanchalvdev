@@ -111,7 +111,7 @@ I'm building a **multi-tenant, multi-agent AI platform** used every day by threa
 <div align="center">
 
 <a href="https://github.com/chanchalvdev">
-  <img src="https://streak-stats.demolab.com?user=chanchalvdev&theme=tokyonight&hide_border=true&background=0C0C0E&stroke=4C3FD0&ring=6E5FE8&fire=B3AAFF&currStreakLabel=B3AAFF&sideLabels=F4F4F5&dates=9B99A3&currStreakNum=F4F4F5&sideNums=F4F4F5" alt="GitHub contribution streak" />
+  <img src="./streak.svg" alt="GitHub contribution streak" />
 </a>
 
 <br/><br/>
