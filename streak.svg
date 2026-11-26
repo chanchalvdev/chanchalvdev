@@ -9,16 +9,16 @@
 <line x1="165" y1="28" x2="165" y2="170" stroke="#4C3FD0" stroke-width="1"/>
 <line x1="330" y1="28" x2="330" y2="170" stroke="#4C3FD0" stroke-width="1"/>
 <g text-anchor="middle">
-  <text x="82.5" y="79" class="n" fill="#F4F4F5">3,421</text>
+  <text x="82.5" y="79" class="n" fill="#F4F4F5">3,427</text>
   <text x="82.5" y="115" class="l" fill="#F4F4F5">Total Contributions</text>
   <text x="82.5" y="145" class="d" fill="#9B99A3">Dec 14, 2021 - Present</text>
 
   <circle cx="247.5" cy="71" r="40" fill="none" stroke="#6E5FE8" stroke-width="5"/>
   <rect x="235" y="22" width="25" height="16" fill="#0C0C0E"/>
   <path d="M247.5 19c-3 6-8 9-8 15a8 8 0 0 0 16 0c0-4-2-6-3-9-1 3-3 4-4 4 1-4 0-7-1-10z" fill="#B3AAFF"/>
-  <text x="247.5" y="81" class="n" fill="#F4F4F5">2</text>
+  <text x="247.5" y="81" class="n" fill="#F4F4F5">3</text>
   <text x="247.5" y="138" class="cl" fill="#B3AAFF">Current Streak</text>
-  <text x="247.5" y="160" class="d" fill="#9B99A3">Nov 24 - Nov 25</text>
+  <text x="247.5" y="160" class="d" fill="#9B99A3">Nov 24 - Nov 26</text>
 
   <text x="412.5" y="79" class="n" fill="#F4F4F5">30</text>
   <text x="412.5" y="115" class="l" fill="#F4F4F5">Longest Streak</text>
