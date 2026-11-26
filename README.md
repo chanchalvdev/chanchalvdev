@@ -2,7 +2,7 @@
   chanchalvdev/chanchalvdev — profile README
   - Preview on github.com/chanchalvdev, not in an editor (GitHub proxies images through camo).
   - No <picture> tags: GitHub strips them.
-  - streak.svg is generated daily by .github/workflows/streak.yml (scripts/streak.py).
+  - streak.svg is regenerated every 3 hours by .github/workflows/streak.yml (scripts/streak.py).
   - Stuck broken image? GitHub cached the failure: curl -X PURGE "<camo.githubusercontent.com URL>"
 -->
 
